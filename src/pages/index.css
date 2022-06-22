@@ -1,0 +1,14 @@
+.index-page {
+    padding: 20px;
+}
+
+.index-page .title {
+    font-size: 26px;
+    color: #20A0FF;
+    font-weight: 600;
+    text-align: center;
+}
+
+.index-page .el-tabs__content {
+    overflow: visible;
+}

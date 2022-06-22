@@ -1,0 +1,66 @@
+.config-list {
+    margin: 10px 20px;
+    /* height: 100vh; */
+    /* padding-bottom: 200px; */
+}
+
+.config-list .search {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.config-list .input-item {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.config-list .input-item.btn-wrap {
+    margin-left: 30px;
+}
+
+.config-list .input-item label {
+    width: 120px;
+}
+
+.config-list .input-item input {
+    width: 200px;
+}
+
+.config-list .table-title {
+    margin-top: 20px;
+    padding: 10px 0;
+}
+
+.config-list .table-title {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.config-list .table-title .btn-wrap {
+    margin-left: 15px;
+}
+
+.config-list .operation-btn .warning {
+    color: #f7ba2a;
+}
+
+.config-list .operation-btn .success {
+    color: #13c166;
+}
+
+.config-list .operation-btn .info {
+    color: #50beee;
+}
+
+.config-list .operation-btn .danger {
+    color: #ff4949;
+}
+
+.config-list .pagination {
+    margin-top: 10px;
+}

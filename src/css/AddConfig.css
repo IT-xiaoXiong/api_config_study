@@ -1,0 +1,22 @@
+.config-list {
+    max-width: 90vw;
+}
+
+.config-list .step-wrap {
+    margin: 50px 0px 50px 110px;
+    text-align: center;
+}
+
+.config-list .step-btn {
+    margin-top: 20px;
+    float: right;
+    margin-right: 230px;
+}
+
+.config-list .tab-page {
+    width: 65vw;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, .1);
+}
